@@ -8,4 +8,5 @@ twitter_username: sftwr_shokunin
 github_username:  software-shokunin
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
