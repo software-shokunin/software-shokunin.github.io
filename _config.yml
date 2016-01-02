@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://software-shokunin.github.io/"
 twitter_username: sftwr_shokunin
 github_username:  software-shokunin
+facebook_username: softwareshokunincommunity
 
 # Build settings
 markdown: redcarpet
