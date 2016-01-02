@@ -2,7 +2,7 @@
 title: Software Shokunin Community
 email: software-shokunin-community@thoughtworks.com
 description: As aspiring Software Shokunin we are raising the bar of professional software development by practicing it and helping others learn the craft.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: ""
 url: "http://software-shokunin.github.io/"
 twitter_username: sftwr_shokunin
 github_username:  software-shokunin
