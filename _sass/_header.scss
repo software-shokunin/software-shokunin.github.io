@@ -1,0 +1,15 @@
+header {
+  img {
+    max-width: 25px;
+  }
+
+  a {
+    text-decoration: none !important;
+  }
+
+  .vertical-align {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+  }
+}

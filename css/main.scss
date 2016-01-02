@@ -43,6 +43,7 @@ $container-large-desktop: ($on-laptop + $grid-gutter-width);
 // Sass imports
 @import
         "base",
+        "header",
         "footer",
         "layout",
         "syntax-highlighting",
