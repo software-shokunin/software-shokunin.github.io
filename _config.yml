@@ -11,3 +11,6 @@ facebook_username: softwareshokunincommunity
 # Build settings
 markdown: redcarpet
 highlighter: pygments
+
+gems:
+  - jekyll-feed
