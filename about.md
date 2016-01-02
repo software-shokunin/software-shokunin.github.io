@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+As aspiring Software Shokunin we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+* Not only working software : **but also well-crafted software**
+* Not only responding to change : **but also steadily adding value**
+* Not only individuals and interactions : **but also a community of professionals**
+* Not only customer collaboration : **but also productive partnerships**
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+That is, in pursuit of the items on the left we have found the items on the right to be indispensable.
+
+*Borrowed from the [Software Craftsmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)*
